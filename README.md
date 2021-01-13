@@ -1,9 +1,9 @@
 # React-Bookmark-App
-This project demonstrates the use of 'React Form Control' and API fetch via Promises.
+This project demonstrates the use of React Form Control and API fetch via Promises.
 
 ---
 # APP Features
-* User can add bookmark(title), an URL link, and desctipon and rating.
+* User can add a title, a URL link, description, and rating and then save it as a bookmark.
 
 ---
 # Live Screenshots
@@ -22,12 +22,12 @@ This project demonstrates the use of 'React Form Control' and API fetch via Prom
 * HTML
 * CSS
 * JavaSctipt (ES6)
-* React Client - emphais on : 'React Form Control' and 'API fetch' via Promises.
+* React Client - React Form Control and 'API fetch' via Promises.
 
 ---
 ## Demo and Code Link
-- Live link : to be added
-- [GitHub Code Link] (main) https://github.com/davetam88/fileuploader/tree/main
+- Live link: to be added
+- [GitHub Code Link] (main) https://github.com/davetam88/react-bookmark-app
 
   Note: npm installation is needed to run this app.
 
