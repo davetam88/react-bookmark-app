@@ -1,0 +1,15 @@
+/* bookmark item container */
+.bookmark {
+  padding: 5px;
+  border-top: solid 1px rgb(0,0,255,1);
+}
+
+.bookmark__row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bookmark__description {
+  text-align: left;
+  font-size: 0.95em;
+}
